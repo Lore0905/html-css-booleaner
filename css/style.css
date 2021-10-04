@@ -30,3 +30,14 @@
 .author{
     color: #32a9e5;
 }
+.scritta_evidenziata{
+    background-color: yellow;
+}
+.fonti{
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+.list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
