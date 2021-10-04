@@ -9,7 +9,6 @@
     height: 190px;
     background-color:#4ea0ff;
     background-image: url("../img/img/pattern.png");
-    
 }
 
 #logo{
@@ -33,11 +32,40 @@
 .scritta_evidenziata{
     background-color: yellow;
 }
-.fonti{
-    margin-bottom: 20px;
+
+/* carattere fonti */
+.fonti{    
     font-size: 10px;
 }
+
+/* margine liste */
 .list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    color:white;
+    background-color: #32a9e5;
+}
+.blue-background{
+    background-color: #b1e5f2;
+}
+
+/* DIMENSIONE 1° E 2° COLONNA */
+.v{
+    width: 25%s;
+}
+
+/* DIMENSIONE 3° COLONNA */
+.c{
+    width: 50%;
+}
+
+/* margine dei paragrafi*/
+p{
     margin-top: 20px;
     margin-bottom: 20px;
 }
