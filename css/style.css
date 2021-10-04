@@ -69,3 +69,34 @@ p{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+/* annunci pubblicitari */
+.rettangolo{
+    width: 250px;
+    height:200px;
+    border: 1px solid black;
+    color: white;
+}
+
+/* 1°rettangolo */
+.primo.rettangolo{
+    background-image: url(../img/img/monitor.jpg);
+    margin-bottom: 20px;
+}
+
+/* 2°rettangolo */
+.secondo.rettangolo{
+    background-image: url(../img/img/graph.jpg);
+}
+
+/* scritta annunci */
+.annunci{
+    line-height: 50px;
+    margin-left: 5%;
+    font-size: 20px;
+}
+#potrebbero_interessarti{
+    color: #808080;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
