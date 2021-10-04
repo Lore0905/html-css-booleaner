@@ -13,6 +13,20 @@
 }
 
 #logo{
-width: 20%;
-line-height: 100%;
+    width: 20%;
+    margin-top: 100px;
+    }
+
+.contenitore{
+    border: 3px solid black;
+    width: 97%;
+    margin: auto;
+}
+
+.autore{
+    margin-bottom: 20px;
+    color: #808080;
+}
+.author{
+    color: #32a9e5;
 }
